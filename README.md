@@ -13,7 +13,7 @@ A comprehensive project for analyzing YouTube trending videos, performing explor
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Goutham-Senthil/YouTube-Trending-Video-Analyzer.git
    cd YouTube-Trending-Video-Analyzer
    ```
 
